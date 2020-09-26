@@ -1,0 +1,149 @@
+{
+  "id": "2049022",
+  "name": "SongGod",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-songgod",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16853765",
+      "name": "application",
+      "font_class": "application",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "16853766",
+      "name": "application2",
+      "font_class": "application2",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "16853767",
+      "name": "asymmetry",
+      "font_class": "asymmetry",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "16853768",
+      "name": "data",
+      "font_class": "data",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "16853769",
+      "name": "certificate",
+      "font_class": "certificate",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "16853770",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "16853771",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "16853772",
+      "name": "chain",
+      "font_class": "chain",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "16853773",
+      "name": "record",
+      "font_class": "record",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "16853774",
+      "name": "time",
+      "font_class": "time",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "16853775",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "16853776",
+      "name": "layer",
+      "font_class": "layer",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "16853777",
+      "name": "rock",
+      "font_class": "rock",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "16853778",
+      "name": "lightning network",
+      "font_class": "lightningnetwork",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "16853779",
+      "name": "voice",
+      "font_class": "voice",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "16853780",
+      "name": "miner",
+      "font_class": "miner",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "16853781",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "16853782",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "16853783",
+      "name": "wallet",
+      "font_class": "wallet",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "16853784",
+      "name": "style",
+      "font_class": "style",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    }
+  ]
+}
